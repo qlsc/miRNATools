@@ -1,0 +1,1 @@
+http://www.ebi.ac.uk/enright-srv/microcosm/cgi-bin/targets/v5/detail_view.pl?transcript_id=ENSRNOT00000012170
