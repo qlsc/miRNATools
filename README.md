@@ -4,8 +4,11 @@ miRNATools
 
 
 说明:  miRNA靶序列预测程序及查询数据库
+
 miRNA target prediction programs and related databases
-靶序列预测程序 适用物种 相关网站
+靶序列预测程序 
+适用物种 
+相关网站
 miRDB
 动物	                 
 http://mirdb.org/miRDB/
